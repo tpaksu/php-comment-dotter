@@ -4,6 +4,11 @@
   "description": "Adds missing dots at the end of inline PHP comments",
   "version": "1.0.0",
   "publisher": "tpaksu",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tpaksu/php-comment-dotter.git"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
